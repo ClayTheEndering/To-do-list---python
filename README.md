@@ -1,5 +1,5 @@
 # To-do-list---python
-A working to-do list in python to download, can work with saving into a file and loading it will also create the file must have python installed on device for it to work, no mobile support unfortunately, if you would like any features let me know and I will code them up and make it for you. This has just been testing my coding skills I can try and do any other things it can do but for now here's a rundown:
+A working to-do list in python to download, can work with saving into a file and loading it will also create the file, no mobile support unfortunately, if you would like any features let me know and I will code them up and make it for you. This has just been testing my coding skills I can try and do any other things it can do but for now here's a rundown:
 - Create new task
 - Load from file
 - Save to file
